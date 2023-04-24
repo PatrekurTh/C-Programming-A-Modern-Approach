@@ -1,7 +1,7 @@
 /*
  * Name: dweight.c
  * Purpose: Computes the dimensional weight of a 12 11 x 10 11 x a II box
- * Author: Author: K. N. King
+ * Author: K. N. King
  */
 
 #include <stdio.h>

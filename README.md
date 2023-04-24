@@ -16,7 +16,8 @@ My solutions to the book "C Programming: A Modern Approach" 2nd edition by K.N. 
 - [Exercise 10](./Chapter2/Exercises/E10.c)
 
 ### Projects
-
+- [Project 1](./Chapter2/Projects/P1.c)
+- [Project 2](./Chapter2/Projects/P2.c)
 
 # License
 Code from the book has the copyright notice as stated in [book-notice.txt](./book-notice.txt).
