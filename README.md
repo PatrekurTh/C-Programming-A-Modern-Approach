@@ -4,6 +4,7 @@ My solutions to the book "C Programming: A Modern Approach" 2nd edition by K.N. 
 # Chapters
 1. Introducing C
 2. [C Fundamentals](./Chapter2/)
+3. [Formatted Input/Output](./Chapter3/)
 
 # License
 Code from the book has the copyright notice as stated in [book-notice.txt](./book-notice.txt).
