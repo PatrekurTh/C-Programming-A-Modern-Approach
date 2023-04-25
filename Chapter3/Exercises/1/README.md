@@ -7,10 +7,10 @@
 ```
 
 **Solutions**
-(a) ••••86,1040
-(b) •3.02530e+01
-(c) 83.1620
-(d) 1e-06
+(a) ••••86,1040  
+(b) •3.02530e+01  
+(c) 83.1620  
+(d) 1e-06  
 
 *Like the author, I use • to represent the space character.*
 
