@@ -1,5 +1,5 @@
 # C-Programming-A-Modern-Approach
-My solutions to the book "C Programming: A Modern Approach" 2nd edition by K.N. King. 
+My solutions to the book "C Programming: A Modern Approach" 2nd edition by K.N. King.  
 I attempt the exercises using only the definitions up to that point.  
 Additionally, old exercises will not be refactored when better methods reveal themselves.  
 
