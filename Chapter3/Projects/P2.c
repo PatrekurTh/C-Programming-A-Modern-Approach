@@ -1,5 +1,5 @@
 /*
- * Name: P1.c
+ * Name: P2.c
  * Purpose: formats product information entered by the user
  * Author: PatrekurTH
  */

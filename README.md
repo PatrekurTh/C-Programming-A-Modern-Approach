@@ -1,12 +1,13 @@
 # C-Programming-A-Modern-Approach
 My solutions to the book "C Programming: A Modern Approach" 2nd edition by K.N. King.  
 I attempt the exercises using only the definitions up to that point.  
-Additionally, old exercises will not be refactored when better methods reveal themselves.  
+Old exercises will not be refactored when better methods reveal themselves.  
 
 # Chapters
 1. Introducing C
 2. [C Fundamentals](./Chapter2/)
 3. [Formatted Input/Output](./Chapter3/)
+4. [Expressions](./Chapter4/)
 
 # License
 Code from the book has the copyright notice as stated in [book-notice.txt](./book-notice.txt).
