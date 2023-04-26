@@ -1,4 +1,5 @@
 # Chapter 2
+- - -
 ## Exercises
 - [Exercise 1](./Exercises/1/hello.c)
 - [Exercise 2](./Exercises/2/main.c)
