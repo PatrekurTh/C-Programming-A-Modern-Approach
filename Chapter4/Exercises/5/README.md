@@ -7,7 +7,7 @@ an expression may have more than one value.)
 (d) -8 % -5
 ```
 
-**Solutions**
+**Solutions**  
 *The sign of i % j in C89 depends on the implementation. (For example, the value of -9 % 7 could be either –2 or 5).*
 
 (a) 3

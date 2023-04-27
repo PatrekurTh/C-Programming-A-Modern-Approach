@@ -8,9 +8,7 @@ an expression may have more than one value.)
 ```
 
 **Solutions**  
-*The C89 standard states that if either operand is negative,  
-the result of a division can be rounded either up or down.  
-(For example, the value of -9 / 7 could be either –1 or –2).*  
+*The C89 standard states that if either operand is negative,  the result of a division can be rounded either up or down.  (For example, the value of -9 / 7 could be either –1 or –2).*  
 (a) 1  
 (b) -1 or -2  
 (c) -1 or -2  

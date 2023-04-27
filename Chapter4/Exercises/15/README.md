@@ -8,7 +8,7 @@ cuted. (Assume that i has the value 1 initially and j has the value 2.)
 ```
 
 **Solutions**  
-*I assume it is implied these are run in sequence*
+*I assume it is implied these are run in sequence*  
 (a) i = 3, j = 2  
 (b) i = 2, j = 2  
 (c) i = 2, j = 2  

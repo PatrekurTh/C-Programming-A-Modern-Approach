@@ -1,7 +1,7 @@
 /*
  * Name: P6.c
  * Purpose: Adds two fractions
- * Author: K. N. King, PatrekurTH
+ * Author: K. N. King, PatrekurTH (rewrite)
  */
 
 #include <stdio.h>

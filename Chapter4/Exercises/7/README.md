@@ -9,7 +9,7 @@ Subtract the remainder from 10.
 Why doesn’t this technique work?
 ```
 
-**Solution**
+**Solution**  
 Because the order of the calculations matters.
 
 For example, taking an arbitrary number of 30 after going through the first steps. 
