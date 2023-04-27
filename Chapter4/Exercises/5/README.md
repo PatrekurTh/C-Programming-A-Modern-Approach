@@ -9,7 +9,18 @@ an expression may have more than one value.)
 
 **Solutions**
 *The sign of i % j in C89 depends on the implementation. (For example, the value of -9 % 7 could be either –2 or 5).*
-(a)
-(b)
-(c)
-(d)
+
+(a) 3
+- 8 = 5 * 1 + 3
+
+(b) -3 or 2
+- -8 = 5 * (-2) + 2
+- -8 = 5 * (-1) - 3
+
+(c) 3 or -2
+- 8 = -5 * (-2) - 2
+- 8 = -5 * (-1) + 3
+
+(d) -3 or 2
+- -8 = -5 * 1 - 3
+- -8 = -5 * 2 + 2

@@ -38,3 +38,5 @@ are left associative</span></li>
     <li>0.667&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <span style="color:grey">integer division truncates</span></li>
   </ul>
 </ol>
+
+*I'm not gonna stick to this formatting*
