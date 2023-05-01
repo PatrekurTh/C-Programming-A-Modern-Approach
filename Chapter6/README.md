@@ -1,0 +1,31 @@
+# Chapter 6
+- - -
+## Exercises
+- [Exercise 1](./Exercises/1/)
+- [Exercise 2](./Exercises/2/)
+- [Exercise 3](./Exercises/3/)
+- [Exercise 4](./Exercises/4/)
+- [Exercise 5](./Exercises/5/)
+- [Exercise 6](./Exercises/6/)
+- [Exercise 7](./Exercises/7/)
+- [Exercise 8](./Exercises/8/)
+- [Exercise 9](./Exercises/9/)
+- [Exercise 10](./Exercises/10/)
+- [Exercise 11](./Exercises/11/)
+- [Exercise 12](./Exercises/12/)
+- [Exercise 13](./Exercises/13/)
+- [Exercise 14](./Exercises/14/)
+
+## Programming Projects
+- [Project 1](./Projects/P1.c)
+- [Project 2](./Projects/P3.c)
+- [Project 3](./Projects/P3.c)
+- [Project 4](./Projects/P4.c)
+- [Project 5](./Projects/P5.c)
+- [Project 6](./Projects/P6.c)
+- [Project 7](./Projects/P7.c)
+- [Project 8](./Projects/P8.c)
+- [Project 9](./Projects/P9.c)
+- [Project 10](./Projects/P10.c)
+- [Project 11](./Projects/P11.c)
+- [Project 12](./Projects/P12.c)
