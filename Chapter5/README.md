@@ -12,10 +12,6 @@
 - [Exercise 9](./Exercises/9/)
 - [Exercise 10](./Exercises/10/)
 - [Exercise 11](./Exercises/11/)
-- [Exercise 12](./Exercises/12/)
-- [Exercise 13](./Exercises/13/)
-- [Exercise 14](./Exercises/14/)
-- [Exercise 15](./Exercises/15/)
 
 ## Programming Projects
 - [Project 1](./Projects/P1.c)
@@ -24,3 +20,8 @@
 - [Project 4](./Projects/P4.c)
 - [Project 5](./Projects/P5.c)
 - [Project 6](./Projects/P6.c)
+- [Project 7](./Projects/P7.c)
+- [Project 8](./Projects/P8.c)
+- [Project 9](./Projects/P9.c)
+- [Project 10](./Projects/P10.c)
+- [Project 11](./Projects/P11.c)

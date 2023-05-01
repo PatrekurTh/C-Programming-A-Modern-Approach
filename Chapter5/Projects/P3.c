@@ -6,14 +6,14 @@
 
 #include <stdio.h>
 
-int main(void) // TODO part (b)
+int main(void)
 {
-    float n_of_shares, pp_share, commission, value;
+    float n_of_shares, pp_share, commission, value, rival;
 
     printf("Enter number of shares: ");
-    scanf("%d", &n_of_shares);
+    scanf("%f", &n_of_shares);
     printf("Enter price per share: ");
-    scanf("%d", &pp_share);
+    scanf("%f", &pp_share);
 
     value = n_of_shares * pp_share;
     if (value < 2500.00f)
@@ -32,7 +32,13 @@ int main(void) // TODO part (b)
     if (commission < 39.00f)
         commission = 39.00f;
 
-    printf("Commission: $%.2f\n", commission);
+    if (n_of_shares < 2000.00f)
+        rival = 33.00f + .03f * n_of_shares;
+    else
+        rival = 33.00f + .02f * n_of_shares;
+
+    printf("Original commission: $%.2f\n", commission);
+    printf("Rival commission: $%.2f\n", rival);
 
     return 0;
 }

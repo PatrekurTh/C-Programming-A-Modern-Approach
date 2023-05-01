@@ -21,6 +21,7 @@ ment as simple as possible.
 ```
 
 **Solution**  
+```
 switch (area_code) {
     case 229: 
         printf("Albany"); break;
@@ -35,3 +36,4 @@ switch (area_code) {
     default:
         printf("Area code not recognized"); break;
 }
+```
