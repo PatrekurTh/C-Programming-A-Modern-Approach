@@ -9,6 +9,7 @@ Old exercises will not be refactored when better methods reveal themselves.
 3. [Formatted Input/Output](./Chapter3/)
 4. [Expressions](./Chapter4/)
 5. [Selection Statements](./Chapter5/)
+6. [Loops](./Chapter6/)
 
 # License
 Code from the book has the copyright notice as stated in [book-notice.txt](./book-notice.txt).
