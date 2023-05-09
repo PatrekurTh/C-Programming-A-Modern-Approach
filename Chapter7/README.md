@@ -18,7 +18,7 @@
 - [Exercise 15](./Exercises/15/)
 
 ## Programming Projects
-- [Project 1](./Projects/P1.c)
+- [Project 1](./Projects/P1/)
 - [Project 2](./Projects/P3.c)
 - [Project 3](./Projects/P3.c)
 - [Project 4](./Projects/P4.c)
