@@ -11,6 +11,7 @@ Old programming projects will not be refactored when new, better methods are dis
 5. [Selection Statements](./Chapter5/)
 6. [Loops](./Chapter6/)
 7. [Basic Types](./Chapter7/)
+8. [Arrays](./Chapter8/)
 
 # License
 Code from the book has the copyright notice as stated in [book-notice.txt](./book-notice.txt).
