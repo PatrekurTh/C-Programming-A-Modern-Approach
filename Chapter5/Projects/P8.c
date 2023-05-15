@@ -1,6 +1,6 @@
 /*
  * Name: P8.c
- * Purpose: finds the largest and smallest of four integers entered by the user
+ * Purpose: Displays the departure and arrival times for the flight whose departure time is closest to that entered by the user:
  * Author: PatrekurTH
  */
 
@@ -18,7 +18,7 @@ int main(void)
         f7_d = 1140, f7_a = 1400,
         f8_d = 1305, f8_a = 1438;
 
-    printf("Enter a 24-hour time: "); //13:15
+    printf("Enter a 24-hour time: ");
     scanf("%d:%d", &hours, &mins);
 
     user_time = hours * 60 + mins;

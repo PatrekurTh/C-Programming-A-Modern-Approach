@@ -1,6 +1,6 @@
 /*
  * Name: P11.c
- * Purpose: Counts the number of vowels in a sentence
+ * Purpose: Displays the last name, a comma, and the first initial, followed by a period
  * Author: PatrekurTH
  */
 
