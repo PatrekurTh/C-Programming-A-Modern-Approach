@@ -12,10 +12,6 @@
 - [Exercise 9](./Exercises/9/)
 - [Exercise 10](./Exercises/10/)
 - [Exercise 11](./Exercises/11/)
-- [Exercise 12](./Exercises/12/)
-- [Exercise 13](./Exercises/13/)
-- [Exercise 14](./Exercises/14/)
-- [Exercise 15](./Exercises/15/)
 
 ## Programming Projects
 - [Project 1](./Projects/P1/)

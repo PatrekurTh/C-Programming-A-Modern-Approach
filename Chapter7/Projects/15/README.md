@@ -17,5 +17,5 @@ long long type).
 (d) 20
 (e) 34 (exact 13)
 (f) 170 (exact 22)
-(g) 170 (exact 22) (apple m1)
+(g) 170 (exact 22) (Apple M1)
 
