@@ -19,7 +19,7 @@
 
 ## Programming Projects
 - [Project 1](./Projects/P1/)
-- [Project 2](./Projects/P3.c)
+- [Project 2](./Projects/P2.c)
 - [Project 3](./Projects/P3.c)
 - [Project 4](./Projects/P4.c)
 - [Project 5](./Projects/P5.c)
@@ -32,4 +32,4 @@
 - [Project 12](./Projects/P12.c)
 - [Project 13](./Projects/P13.c)
 - [Project 14](./Projects/P14.c)
-- [Project 15](./Projects/P15.c)
+- [Project 15](./Projects/P15/)
