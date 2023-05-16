@@ -29,3 +29,5 @@
 - [Project 13](./Projects/P13.c)
 - [Project 14](./Projects/P14.c)
 - [Project 15](./Projects/P15.c)
+- [Project 16](./Projects/P16.c)
+- [Project 17](./Projects/P17.c)
