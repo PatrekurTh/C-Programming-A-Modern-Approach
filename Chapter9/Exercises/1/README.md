@@ -13,4 +13,4 @@ double product;
 1. The variable product is defined outside the triangle_area declaration, causing an error.  
 This can be fixed by moving `double product;` into the triangle_area declaration.  
 2. The type of the parameter height is not specified.  
-This can be fixed by specifying `double height`;  
+This can be fixed by specifying `double height;`.  
